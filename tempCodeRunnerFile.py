@@ -1,0 +1,1 @@
+self.fname,self.lname,self.mob,self.email,self.category
